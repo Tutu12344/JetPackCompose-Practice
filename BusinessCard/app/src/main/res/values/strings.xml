@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">businesscard</string>
+    <string name="name">Jennifer Doe</string>
+    <string name="job">Android Developer Extraordinaire</string>
+
+    <string name="phone">080 3746 2111</string>
+    <string name="job_name">"@AndroidDeveloper"</string>
+    <string name="email">padde.cross@gmail.com</string>
+
+
+
+
+
+
+</resources>
